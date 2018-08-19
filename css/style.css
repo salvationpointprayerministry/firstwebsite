@@ -16,3 +16,7 @@ a.social-link:hover, a.social-link:focus, a.social-link:active {
         font-size: 1rem !important;
     }
 }
+section.hero.is-large.is-bold {
+    background: url("../img/site_banner.jpg") no-repeat;
+    background-position: center;
+}
